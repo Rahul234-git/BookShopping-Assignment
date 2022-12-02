@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+.containder-style {
+  height: 40px;
+  width: 100%;
+  background-color: tomato;
+}
+.list-book {
+  position: absolute;
+  left: 500px;
+  top: 8px;
+  color: white;
+  font-size: 18px;
+}
+.input-style {
+  position: absolute;
+  left: 700px;
+  padding: 4px;
+  top: 8px;
+  width: 300px;
+  height: 20px;
+  border: none;
+  border-radius: 20px;
+}
+.search {
+  position: absolute;
+  left: 1016px;
+  top: 7px;
+  border: none;
+  padding: 5px 20px;
+  background-color: white;
+  color: darkslateblue;
+  border-radius: 30px;
+}
+
+.book-cart {
+  position: absolute;
+  left: 1274px;
+  top: 5px;
+  color: white;
+  font-size: 18px;
+}
